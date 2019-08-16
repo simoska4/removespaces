@@ -15,12 +15,16 @@ We get the following Image as input and then we show the results using the metho
 #### Remove spaces - only externally
 This method remove spaces from the input BufferedImage only externally
 ``BufferedImage compress = RemoveSpaces.compress((image, true);``  
+<kbd>
 ![Original BufferedImage](https://github.com/simoska4/removespaces/blob/master/sample/compress_onlyexternally.png)
+</kbd>
 
 #### Remove spaces - also internally
 This method remove spaces from the input BufferedImage also internally
 ``BufferedImage compress = RemoveSpaces.compress((image, false);``  
+<kbd>
 ![Original BufferedImage](https://github.com/simoska4/removespaces/blob/master/sample/compress.png)
+</kbd>
 
 
 ## Contributing
