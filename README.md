@@ -8,7 +8,9 @@ RemoveSpace is a Java class that implements methods to remove space from a Buffe
 
 #### Input Image
 We get the following Image as input and then we show the results using the methods implemented.  
+<kbd>
 ![Original BufferedImage](https://github.com/simoska4/removespaces/blob/master/sample/input.png)
+</kbd>
 
 #### Remove spaces - only externally
 This method remove spaces from the input BufferedImage only externally
